@@ -21,10 +21,10 @@ curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt install -y nodejs
 
 # Clone or update the repo
-git clone https://github.com/Giubis/nodejs20-se-test-app-2025.git
+git clone https://github.com/Giubis/Cloud-Networking.git
 
 # Enter the app directory
-cd nodejs20-se-test-app-2025/app
+cd Day-1
 
 # Install Node dependencies
 npm install
